@@ -34,8 +34,8 @@ To run the game locally, follow these steps:
     - Click the Play button to start the game in the Unity Editor.
 
 
-![image](https://github.com/user-attachments/assets/a5394ddf-2845-4d8f-b174-940e6a59d741)
+![image](https://github.com/user-attachments/assets/200bd0b0-df7d-43c3-b3d7-6ec3aec8e952)
 
-![image](https://github.com/user-attachments/assets/617541b4-bc98-4014-a08e-9f43531d48d9)
+![image](https://github.com/user-attachments/assets/5fc64aef-0b54-45a6-a0fb-816bdfa39b2b)
 
-![image](https://github.com/user-attachments/assets/86fb611f-1062-4781-81bf-ef486dd5fa9c)
+![image](https://github.com/user-attachments/assets/291939b2-41c3-44f1-8451-c6ffac883835)
